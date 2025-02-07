@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-veer&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-veer" /> </p>
 
-<p align="left" display:none> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-veer" alt="arjun-veer" /></a> </p>
+<p align="left" style="display:none, visibility: hidden"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-veer" alt="arjun-veer" /></a> </p>
 
 - 🔭 I’m currently working on **Pdf sharing platform**
 
